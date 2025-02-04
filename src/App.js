@@ -7,7 +7,7 @@ import './styles/StartQuiz.scss'
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/Quiz-App">
       <Routes>
         <Route path="/" element={<StartQuiz />} />
 
