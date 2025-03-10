@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Quiz-App/static/css/main.addbd89e.css",
-    "main.js": "/Quiz-App/static/js/main.67c39b08.js",
+    "main.css": "/Quiz-App/static/css/main.9df1c9a4.css",
+    "main.js": "/Quiz-App/static/js/main.5e8a8cc4.js",
     "static/js/453.fc01f49c.chunk.js": "/Quiz-App/static/js/453.fc01f49c.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Quiz-App/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Quiz-App/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,12 +10,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Quiz-App/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Quiz-App/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Quiz-App/index.html",
-    "main.addbd89e.css.map": "/Quiz-App/static/css/main.addbd89e.css.map",
-    "main.67c39b08.js.map": "/Quiz-App/static/js/main.67c39b08.js.map",
+    "main.9df1c9a4.css.map": "/Quiz-App/static/css/main.9df1c9a4.css.map",
+    "main.5e8a8cc4.js.map": "/Quiz-App/static/js/main.5e8a8cc4.js.map",
     "453.fc01f49c.chunk.js.map": "/Quiz-App/static/js/453.fc01f49c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.addbd89e.css",
-    "static/js/main.67c39b08.js"
+    "static/css/main.9df1c9a4.css",
+    "static/js/main.5e8a8cc4.js"
   ]
 }
