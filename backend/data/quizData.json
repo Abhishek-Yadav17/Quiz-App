@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "description": "What is the capital of France?",
+      "options": [
+        {
+          "id": "1",
+          "description": "Berlin",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "description": "Madrid",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "Paris",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "description": "Rome",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Which planet is known as the Red Planet?",
+      "options": [
+        {
+          "id": "1",
+          "description": "Earth",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "description": "Mars",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "description": "Jupiter",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "Venus",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Who wrote 'Hamlet'?",
+      "options": [
+        {
+          "id": "1",
+          "description": "William Shakespeare",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "description": "Charles Dickens",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "Jane Austen",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "Mark Twain",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Which is the largest ocean on Earth?",
+      "options": [
+        {
+          "id": "1",
+          "description": "Atlantic Ocean",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "description": "Indian Ocean",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "Arctic Ocean",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "Pacific Ocean",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "description": "What is the chemical symbol for water?",
+      "options": [
+        {
+          "id": "1",
+          "description": "H2O",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "description": "O2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "CO2",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "H2",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "description": "What is the tallest mountain in the world?",
+      "options": [
+        {
+          "id": "1",
+          "description": "Mount Everest",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "description": "K2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "Mount Kilimanjaro",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "Mount Fuji",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "description": "Which company developed the iPhone?",
+      "options": [
+        {
+          "id": "1",
+          "description": "Apple",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "description": "Samsung",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "Nokia",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "Huawei",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "description": "What is the square root of 64?",
+      "options": [
+        {
+          "id": "1",
+          "description": "6",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "description": "8",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "description": "10",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "7",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "description": "Who is known as the father of computers?",
+      "options": [
+        {
+          "id": "1",
+          "description": "Charles Babbage",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "description": "Alan Turing",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "Bill Gates",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "description": "Steve Jobs",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "description": "Which country is known as the Land of the Rising Sun?",
+      "options": [
+        {
+          "id": "1",
+          "description": "China",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "description": "South Korea",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "description": "Japan",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "description": "Thailand",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

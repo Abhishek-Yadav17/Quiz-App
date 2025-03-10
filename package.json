@@ -28,7 +28,6 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://api.jsonserve.com",
   "eslintConfig": {
     "extends": [
       "react-app",
